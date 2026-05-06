@@ -1,8 +1,4 @@
-🧠 LLM Knowledge Assistant
-  📌 项目简介
+LLM Knowledge Assistant  
+
+项目简介
 本项目基于大语言模型（LLM）与RAG（检索增强生成）架构，实现企业知识库问答系统。
-  🚀 功能特点
-    📚 文档语义检索（基于Embedding）
-    🤖 智能问答（结合上下文生成）
-    💬 支持多轮扩展（可扩展）
-    ⚙️ 模块化设计（易扩展）
