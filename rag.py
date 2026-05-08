@@ -20,7 +20,7 @@ if not api_key:
     raise ValueError("请设置环境变量 api_key 或 OPENAI_API_KEY")
 
 client = OpenAI(
-    api_key="sk-f3d578d029464c368023c2645dd5958d",
+    api_key="API-KEY",
     base_url="https://api.deepseek.com")
 
 def split_text(text, chunk_size=300):
